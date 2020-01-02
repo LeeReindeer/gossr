@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zu1k/gossr/ssr"
-	"github.com/zu1k/gossr/tools"
+	"github.com/LeeReindeer/gossr/ssr"
+	"github.com/LeeReindeer/gossr/tools"
 )
 
 type hmacMethod func(key []byte, data []byte) []byte

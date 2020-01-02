@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zu1k/gossr/obfs"
-	"github.com/zu1k/gossr/protocol"
-	"github.com/zu1k/gossr/ssr"
+	"github.com/LeeReindeer/gossr/obfs"
+	"github.com/LeeReindeer/gossr/protocol"
+	"github.com/LeeReindeer/gossr/ssr"
 )
 
 func NewSSRClient(u *url.URL) (*SSTCPConn, error) {

@@ -1,8 +1,8 @@
 # shadowsocksR
 
-[shadowsocksR](https://github.com/zu1k/gossr) is a shadowsocksR for Go library
+[shadowsocksR](https://github.com/LeeReindeer/gossr) is a shadowsocksR for Go library
 
-* shadowsocksR is based on [avege](https://github.com/avege/avege) and [shadowsocksR for Python](https://github.com/shadowsocksr-backup/shadowsocksr) changes. 
+* shadowsocksR is based on [avege](https://github.com/avege/avege) and [shadowsocksR for Python](https://github.com/shadowsocksr-backup/shadowsocksr) changes.
 * Repair avege SSR communication BUG and streamline version. Is a normal use version.
 
 #### Use
